@@ -1,4 +1,9 @@
 # DataSet_project
 
-We are starting our project
+this is our project.
 
+group members:
+
+yarden, meital, eyal and sarah
+
+a link to our source data base:
