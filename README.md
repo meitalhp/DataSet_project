@@ -1,11 +1,10 @@
 # DataSet_project
 
-this is our project.
+This is our project.
 
-group members:
+Group members:
+Yarden, Meital, Eyal & Sarah
 
-yarden, meital, eyal and sarah
-
-a link to our source data base:
+A link to our source database:
 
 https://www.kaggle.com/saurabhshahane/road-traffic-accidents?select=RTA+Dataset.csv
